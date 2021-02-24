@@ -20,7 +20,7 @@ async def main(url):
     await dmc.start()
 
 
-a = input('请输入直播间地址：\n')
+a = input('30：\nhttps://live.bilibili.com/22671795\nnano：\nhttps://live.bilibili.com/22347054\noto：\nhttps://live.bilibili.com/21320551\nkomori：\nhttps://live.bilibili.com/8725120\nkanon：\nhttps://live.bilibili.com/21402309\n0：\nhttps://live.bilibili.com/21685677\nlulu：\nhttps://live.bilibili.com/21013446\n桀哥：\nhttps://www.douyu.com/74751\n羽毛：\nhttps:www.huya.com/114514\n请输入直播间地址：\n')
 asyncio.run(main(a))
 
 # 虎牙直播：https://www.huya.com/11352915

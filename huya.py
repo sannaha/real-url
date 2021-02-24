@@ -75,5 +75,5 @@ def get_real_url(rid):
 
 
 if __name__ == '__main__':
-    rid = input('输入虎牙直播房间号：\n')
+    rid = input('羽毛：\n114514\n输入虎牙直播房间号：\n')
     print(get_real_url(rid))

@@ -115,6 +115,6 @@ class DouYu:
 
 
 if __name__ == '__main__':
-    r = input('输入斗鱼直播间号：\n')
+    r = input('超级小桀：\n74751\n英雄联盟：\n288016\n输入斗鱼直播间号：\n')
     s = DouYu(r)
     print(s.get_real_url())

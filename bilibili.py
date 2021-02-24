@@ -60,5 +60,5 @@ def get_real_url(rid):
 
 
 if __name__ == '__main__':
-    r = input('请输入bilibili直播房间号：\n')
+    r = input('30：\n22671795\nnano：\n22347054\noto：\n21320551\nkomori：\n8725120\nkanon：\n21402309\n0：\n21685677\nlulu：\n21013446\n请输入bilibili直播房间号：\n')
     print(get_real_url(r))
